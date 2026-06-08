@@ -1,0 +1,6 @@
+{
+  "name": "SUKAHITUNG",
+  "description": "Solusi Cerdas Keuangan UMKM - Financial management, calculation of HPP, analysis, and expert consultations for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
